@@ -21,6 +21,9 @@ Simulador avanzado de un sistema bancario concurrente diseñado para ejecutarse 
 
 ## 🏗️ Estructura del sistema
 
+## 🗂️ Estructura del Proyecto
+
+```plaintext
 SecureBank/
 ├── data/
 │   ├── alertas.log
@@ -32,7 +35,12 @@ SecureBank/
 │       │   └── log.txt
 │       ├── usuario2/
 │       │   └── log.txt
-│       └── ...
+│       ├── usuario3/
+│       │   └── log.txt
+│       ├── usuario4/
+│       │   └── log.txt
+│       └── usuario5/
+│           └── log.txt
 ├── src/
 │   ├── banco.c
 │   ├── datos.c
