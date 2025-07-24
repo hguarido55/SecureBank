@@ -1,0 +1,21 @@
+[Sun Apr  6 16:52:45 2025] ALERTA: Operación sospechosa detectada -> Retirada ANÓMALA en cuenta 1: 3123231223296557056.00
+[Sun Apr  6 16:52:54 2025] ALERTA: Operación sospechosa detectada -> Transferencia ANÓMALA en cuenta 1: 123123127360403013632.00
+[Sun Apr  6 17:02:04 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Retirada ANÓMALA en cuenta 1: 123123125361367729032921088.00
+[Sun Apr  6 17:02:24 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Transferencia ANÓMALA en cuenta 1: 1231231253613677290329210880.00
+[Sun Apr  6 17:06:49 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 136123121521393664.00
+[Sun Apr  6 17:08:27 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 12312312516137975808.00
+[Sun Apr  6 17:11:04 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 1.00
+[Sun Apr  6 17:11:14 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 1.00
+[Sun Apr  6 17:11:49 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 1.00
+[Sun Apr  6 17:12:23 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 1.00
+[Sun Apr  6 17:19:03 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Transferencia ANÓMALA en cuenta 1: 1312312345166348288.00
+[Sun Apr  6 17:19:51 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 123123125656515634212273913856.00
+[Sun Apr  6 17:20:12 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Retirada ANÓMALA en cuenta 1: 13123123396687901491200.00
+[Sun Apr  6 17:26:15 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 12312311880482816.00
+[Sun Apr  6 17:26:48 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Retirada ANÓMALA en cuenta 1: 1233312297271689216.00
+[Sun Apr  6 17:33:54 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 123123215106048.00
+[Sun Apr  6 17:34:17 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Retirada ANÓMALA en cuenta 1: 1312312339668790149120.00
+[Sun Apr  6 17:34:28 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Transferencia ANÓMALA en cuenta 1: 123123216658339375087616.00
+[Sun Apr 20 17:57:20 2025] ALERTA: Operación sospechosa detectada -> [Usuario] Transferencia ANÓMALA en cuenta 1: 127319834631506822464941337728400752640.00
+[Sun Apr 20 18:28:57 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 131231228528148213919404238307328.00
+[Tue May 13 18:00:54 2025] ALERTA: Operación sospechosa detectada -> Deposito ANÓMALO en cuenta 1: 121312.00
