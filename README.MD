@@ -23,33 +23,27 @@ Simulador avanzado de un sistema bancario concurrente diseñado para ejecutarse 
 
 SecureBank/
 ├── data/
-│ ├── alertas.log # Registro de operaciones sospechosas
-│ ├── config.txt # Configuraciones iniciales del sistema
-│ ├── cuentas.txt # Datos de cuentas bancarias iniciales
-│ ├── transacciones.log # Log general de transacciones
-│ └── transacciones/ # Logs individuales por usuario
-│   ├── 1/
-│   │ └── log_usuario1.txt
-│   ├── 2/
-│   │ └── log_usuario2.txt
-│   ├── 3/
-│   │ └── log_usuario3.txt
-│   ├── 4/
-│   │ └── log_usuario4.txt
-│   └── 5/
-│   └── log_usuario5.txt
-│
+│   ├── alertas.log
+│   ├── config.txt
+│   ├── cuentas.txt
+│   ├── transacciones.log
+│   └── transacciones/
+│       ├── usuario1/
+│       │   └── log.txt
+│       ├── usuario2/
+│       │   └── log.txt
+│       └── ...
 ├── src/
-│ ├── banco.c # Proceso principal: coordina usuarios y monitor
-│ ├── datos.c # Lectura de configuración y datos iniciales
-│ ├── entrada_salida.c # Manejo de entrada y salida
-│ ├── ficheros.c # Operaciones sobre archivos del sistema
-│ ├── init_cuentas.c # Inicialización de las cuentas
-│ ├── memoria.c # Gestión de memoria compartida
-│ ├── monitor.c # Análisis y detección de transacciones anómalas
-│ ├── usuario.c # Interfaz de usuario y gestión de hilos
-│ ├── utils.h # Cabecera con estructuras comunes
-│ └── Launch.sh # Script bash para lanzar el sistema
+│   ├── banco.c
+│   ├── datos.c
+│   ├── entrada_salida.c
+│   ├── ficheros.c
+│   ├── init_cuentas.c
+│   ├── Launch.sh
+│   ├── memoria.c
+│   ├── monitor.c
+│   ├── usuario.c
+│   └── utils.h
 
 ---
 
